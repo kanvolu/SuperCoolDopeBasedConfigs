@@ -1,0 +1,15 @@
+{
+    "colorscheme": "terminal_green",
+    "fzfarg": "--preview 'bat -f -p {}'",
+    "fzfopen": "hsplit",
+    "fzfpath": "relative",
+    "hlsearch": true,
+    "mkparents": true,
+    "pluginchannels": [
+        "https://raw.githubusercontent.com/Neko-Box-Coder/unofficial-plugin-channel/stable/channel.json",
+        "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
+    ],
+    "saveundo": true,
+    "softwrap": true,
+    "wordwrap": true
+}

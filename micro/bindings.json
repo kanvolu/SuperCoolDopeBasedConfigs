@@ -1,0 +1,12 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Alt-c": "command:comment",
+    "Alt-o": "command:urlopen",
+    "Ctrl-Alt-f": "command:fzfinder",
+    "Ctrl-y": "command:yazi",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F12": "command:makeup",
+    "F4": "command:jumptag",
+    "F5": "command:runit",
+    "F9": "command:makeupbg"
+}
