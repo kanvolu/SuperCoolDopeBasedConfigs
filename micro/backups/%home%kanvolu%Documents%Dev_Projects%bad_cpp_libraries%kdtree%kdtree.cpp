@@ -4,10 +4,6 @@
 // #include <random>
 // #include <optional>
 
-#include "kdtree.h"
-
-// using namespace std;
-
 struct node{
 		int left = -1;
 		int right = -1;
