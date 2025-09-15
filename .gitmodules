@@ -1,0 +1,9 @@
+[submodule "micro/plug/manipulator"]
+	path = micro/plug/manipulator
+	url = ./micro/plug/manipulator/
+[submodule "micro/plug/micro-autocomplete-tooltip"]
+	path = micro/plug/micro-autocomplete-tooltip
+	url = ./micro/plug/micro-autocomplete-tooltip
+[submodule "micro/plug/yazi.micro"]
+	path = micro/plug/yazi.micro
+	url = ./micro/plug/yazi.micro/
