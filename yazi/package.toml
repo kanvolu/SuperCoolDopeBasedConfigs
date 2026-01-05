@@ -1,27 +1,47 @@
 [[plugin.deps]]
+use = "yazi-rs/plugins:git"
+rev = "03cdd4b"
+hash = "36a484acf6a0a0219c543ccb4cee218f"
+
+[[plugin.deps]]
 use = "KKV9/compress"
-rev = "9fc8fe0"
-hash = "2ad086899bf368fba211a33d8f68c39d"
+rev = "f9208fe"
+hash = "45791332b981cefd629e31c8bc1df4dd"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:smart-enter"
-rev = "b886025"
+rev = "03cdd4b"
 hash = "56fdabc96fc1f4d53c96eb884b02a5be"
 
 [[plugin.deps]]
 use = "TD-Sky/sudo"
-rev = "af70636"
-hash = "a94dcbe9266512806c677138e8591ddb"
+rev = "86205aa"
+hash = "9628b660afb192d32f2ea5f6634d3e72"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:types"
-rev = "de53d90"
-hash = "1e047e1b13b5e3fc6ab1f5d0d04a14e2"
+use = "iynaix/time-travel"
+rev = "7e0179e"
+hash = "69967963fba96295a07b68354fc91ea9"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:git"
-rev = "de53d90"
-hash = "63b6c222bf2103b3023389dde5e2ecfe"
+use = "GianniBYoung/rsync"
+rev = "14d2828"
+hash = "7394430ba473dce1023721622438bf3d"
+
+[[plugin.deps]]
+use = "Deepak22903/kdeconnect-send"
+rev = "7d9098d"
+hash = "498bda3e06d793f79fe1df7b28fc14a1"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:mount"
+rev = "03cdd4b"
+hash = "e2d4bfccf31e5ab05f46fee4797c5215"
+
+[[plugin.deps]]
+use = "AnirudhG07/custom-shell"
+rev = "b04213d"
+hash = "3efc7ddc9bac120c618462eb994edf75"
 
 [flavor]
 deps = []

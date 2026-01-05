@@ -4,12 +4,15 @@
     "fzfopen": "hsplit",
     "fzfpath": "relative",
     "hlsearch": true,
+    "lsp.formatOnSave": false,
     "mkparents": true,
+    "paste": true,
     "pluginchannels": [
         "https://raw.githubusercontent.com/Neko-Box-Coder/unofficial-plugin-channel/stable/channel.json",
         "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
     ],
     "saveundo": true,
+    "smartpaste": false,
     "softwrap": true,
     "wordwrap": true
 }
